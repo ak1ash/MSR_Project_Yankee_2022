@@ -15,10 +15,10 @@ This is a reproduction project as part of the MSR course 2022 at UniKo, CS depar
 Reproduction of issues reported in stackoverflow. The aim was to reproduce the java issues found on Stackoverflow.
 
 ### Input Data
-Java questins are extracted from Stackoverflow using [StackExchage API](https://api.stackexchange.com/docs/search#fromdate=2020-01-01&todate=2022-07-25&order=desc&sort=activity&tagged=java&filter=default&site=stackoverflow&run=true)
+Java questions are extracted from Stackoverflow using [StackExchage API](https://api.stackexchange.com/docs/search#fromdate=2020-01-01&todate=2022-07-25&order=desc&sort=activity&tagged=java&filter=default&site=stackoverflow&run=true)
 
 ### Output Data
-A JSON file obtained as an output is used for further analysis.
+A CSV file obtained as an output is used for further analysis once the data has been preprocessed and a final output with a percentage of questions reproducible and number of questions that were irreproducible is shown. 
 
 
 ## Findings of reproduction
