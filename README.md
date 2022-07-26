@@ -61,6 +61,16 @@ v) Chrome Browser to access Stack Overflow.
 
 ### Validation
 
+i) Reproducibility status in the final output file is based on the amount of modifications done during manual analysis.
+
+ii) It is important for us to observe by reproducing the error message given by a Stackoverflow user in a particular question in order to conclusively determine whether what we are reproducing is same as what has been mentioned by the user.
+
+### Data
+
+Input: For our reproduction we have used CSV files that contain data from StackExchange API in order to perform manual analysis.
+
+Output: From the above input, we try to obtain the total count of the various reproducibility status, accepted answers(exists/not-exists) and hence calculate the percentage of these present in our data.
+
 
 
 
