@@ -26,7 +26,9 @@ A CSV file which contains the reproducibility status is obtained as output which
 ### Process delta:
 
 i) We first extracted the data dump from StackExchange API base as shown in paper, but we had to modify the query in order to obtain the ideal data dump for further processing. 
+
 ii) From the data dump, we were able to reproduce most of the preprocessing steps like selecting only Java based questions.
+
 iii) We weren't able to randomly sample the data as the process was not very well defined. Hence, we decided to go with the top 400 questions out of which we decided to select 150 questions as our sample.
 
 
@@ -40,14 +42,20 @@ i) We weren't able to obtain the "No AcceptedAnswers" category due to our data b
 
 ### Hardware requirements:
 i) x86 64-bit CPU (Intel/AMD Architechture)
+
 ii) 4GB RAM 
+
 iii) 1 GB free disk space
 
 ### Software Requirements:
 i) Windows 10 or 11
+
 ii) VS Code Editor
+
 iii) Anaconda Navigator
+
 iv) Eclipse IDE 2021-03 or IntelliJ IDE (Latest Version).
+
 v) Chrome Browser to access Stack Overflow.
 
 
