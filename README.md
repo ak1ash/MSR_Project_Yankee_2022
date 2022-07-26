@@ -67,9 +67,9 @@ ii) It is important for us to observe by reproducing the error message given by 
 
 ### Data
 
-Input: For our reproduction we have used CSV files that contain data from StackExchange API in order to perform manual analysis.
+**Input:** For our reproduction we have used CSV files that contain data from StackExchange API in order to perform manual analysis.
 
-Output: From the above input, we try to obtain the total count of the various reproducibility status, accepted answers(exists/not-exists) and hence calculate the percentage of these present in our data.
+**Output:** From the above input, we try to obtain the total count of the various reproducibility status, accepted answers(exists/not-exists) and hence calculate the percentage of these present in our data.
 
 
 
